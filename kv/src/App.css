@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url("./kurtlarvadisi.jpg");
+  height:720px;
+}
+.pagetitle{
+  color: white;
+  text-align: center;
+}
+
